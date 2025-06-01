@@ -1,4 +1,4 @@
-# data-science-IBM-capstone-fina-report
+# data-science-IBM-capstone-final-report
 This is the link to all the url of the final github code for all task
 
 # GitHub Link:
